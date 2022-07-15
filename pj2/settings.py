@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'pj2.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'oficial',
+        'NAME': 'django2',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost',
