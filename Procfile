@@ -1,0 +1,1 @@
+web: gunicor pj2.wsgi --log-file -
