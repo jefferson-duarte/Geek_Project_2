@@ -1,1 +1,1 @@
-web: gunicor pj2.wsgi --log-file -
+web: gunicorn pj2.wsgi --log-file -
